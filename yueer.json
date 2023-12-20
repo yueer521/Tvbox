@@ -49,6 +49,15 @@
       "filterable": 1
     },
     {
+      "key": "csp_77",
+      "name": "七七┃资源",
+      "type": 3,
+      "api": "csp_Kunyun77",
+      "searchable": 1,
+      "quickSearch": 1,
+      "filterable": 1
+    },
+    {
       "key": "csp_Czsapp",
       "name": "厂长┃资源",
       "type": 3,
