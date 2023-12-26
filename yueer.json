@@ -159,10 +159,10 @@
       "ext": "./ext/yueer2"
     },
     {
-      "key": "蜂鸟",
-      "name": "蜂鸟┃App",
+      "key": "月儿三",
+      "name": "月儿三┃App",
       "type": 3,
-      "api": "csp_Skapp",
+      "api": "csp_Appto1",
       "playerType": 2,
       "ext": "./ext/fengniao"
     },
