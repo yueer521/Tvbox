@@ -167,10 +167,10 @@
       "ext": "./ext/fengniao"
     },
     {
-      "key": "君离",
-      "name": "君离┃App",
+      "key": "月儿四",
+      "name": "月儿四┃App",
       "type": 3,
-      "api": "csp_Skapp",
+      "api": "csp_Appto1",
       "playerType": 2,
       "ext": "./ext/junli"
     },
