@@ -86,14 +86,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
-		{
-			"key": "996影院",
-			"name": "996┃影院",
-			"type": 3,
-			"api": "csp_Cs1369",
-			"searchable": 1,
-			"changeable": 1
-		},
+    {
+      "key": "996影院",
+      "name": "996┃影院",
+      "type": 3,
+      "api": "csp_Cs1369",
+      "searchable": 1,
+      "changeable": 1
+    },
     {
       "key": "csp_JianPian",
       "name": "荐片┃资源",
@@ -146,7 +146,7 @@
       "key": "月儿",
       "name": "月儿┃App",
       "type": 3,
-      "api": "csp_Appto1",
+      "api": "csp_yue1",
       "playerType": 2,
       "ext": "./ext/yueer"
     },
@@ -154,7 +154,7 @@
       "key": "月儿2",
       "name": "月儿二┃App",
       "type": 3,
-      "api": "csp_Appto1",
+      "api": "csp_yue1",
       "playerType": 2,
       "ext": "./ext/yueer2"
     },
@@ -162,7 +162,7 @@
       "key": "月儿三",
       "name": "月儿三┃App",
       "type": 3,
-      "api": "csp_Appto1",
+      "api": "csp_yue1",
       "playerType": 2,
       "ext": "./ext/fengniao"
     },
@@ -170,7 +170,7 @@
       "key": "月儿四",
       "name": "月儿四┃App",
       "type": 3,
-      "api": "csp_Appto1",
+      "api": "csp_yue1",
       "playerType": 2,
       "ext": "./ext/junli"
     },
@@ -178,7 +178,7 @@
       "key": "欣欣",
       "name": "欣欣┃App",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "csp_yue",
       "playerType": 2,
       "ext": "./ext/jiguang"
     },
@@ -202,7 +202,7 @@
       "key": "嘿嘿",
       "name": "嘿嘿┃App",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "csp_yue",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
@@ -213,7 +213,7 @@
       "key": "超神",
       "name": "超神┃App",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "csp_yue",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
@@ -224,7 +224,7 @@
       "key": "老虎",
       "name": "老虎┃App",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "csp_yue",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
@@ -235,7 +235,7 @@
       "key": "樱花",
       "name": "樱花┃App",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "csp_yue",
       "searchable": 1,
       "quickSearch": 1,
       "playerType": 2,
@@ -246,7 +246,7 @@
       "key": "星星",
       "name": "星星┃App",
       "type": 3,
-      "api": "csp_Appto",
+      "api": "csp_yue",
       "playerType": 2,
       "ext": "./ext/xingxing"
     },
