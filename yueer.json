@@ -86,6 +86,14 @@
       "quickSearch": 1,
       "filterable": 1
     },
+		{
+			"key": "996影院",
+			"name": "996┃影院",
+			"type": 3,
+			"api": "csp_Cs1369",
+			"searchable": 1,
+			"changeable": 1
+		},
     {
       "key": "csp_JianPian",
       "name": "荐片┃资源",
@@ -114,14 +122,6 @@
       "searchable": 1,
       "quickSearch": 1,
       "filterable": 1
-    },
-    {
-      "key": "蝴蝶",
-      "name": "蝴蝶┃App",
-      "type": 3,
-      "api": "csp_Hudie",
-      "playerType": 2,
-      "ext": "https://yundun-hdsign.zhuifeng100.cn|kT2taP|75f7fac7f56d812d1f9ce89d9f312984|b7688bd6347da0b2b62515b0730b872b"
     },
     {
       "key": "南瓜",
