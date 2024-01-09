@@ -31,6 +31,16 @@
       "ext":"https://jihulab.com/yueer/yueera/-/raw/main/10.19/Tvbox/%E7%8E%A9%E5%81%B6%E5%93%A5%E5%93%A5.json"
     },
     {
+      "key":"玩偶妹妹",
+      "name":"玩偶妹妹",
+      "type":3,
+      "api":"csp_XYQHikerAL",
+      "searchable":1,
+      "quickSearch":1,
+      "filterable":1,
+      "ext":"./ext/玩偶妹妹.json"
+    },
+    {
       "key": "sohu",
       "name": "搜狐",
       "type": 1,
