@@ -185,6 +185,17 @@
       "ext": "./ext/junli"
     },
     {
+      "key": "月儿五",
+      "name": "月儿五┃App",
+      "type": 3,
+      "api": "csp_yue1",
+      "searchable": 1,
+      "quickSearch": 1,
+      "playerType": 2,
+      "filterable": 1,
+      "ext": "https://jihulab.com/qiaoji/open/-/raw/main/qiaoji5"
+    },
+    {
       "key": "欣欣",
       "name": "欣欣┃App",
       "type": 3,
